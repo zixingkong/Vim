@@ -32,7 +32,7 @@ set termencoding=utf-8
 set encoding=utf-8
 
 
-color space-vim-dark 
+color darkslategrey
 set background=light  
 syntax on 
 set number 
